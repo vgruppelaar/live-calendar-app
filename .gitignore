@@ -1,0 +1,5 @@
+/backend/livecalenv
+
+*.pyc 
+bundle.js
+notes.txt
